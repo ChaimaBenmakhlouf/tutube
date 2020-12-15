@@ -44,24 +44,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>Document</title>
+    <meta charset="utf-8">
+    <title>Document</title>
 </head>
 <body>
-<h2>AJOUT DE VIDEO</h2>
-<form action="" method="POST">
-<label for="user">title</label>
-<input type="text" name="title" id="title">
-<label for="url">url</label>
-<input type="text" name="url" id="url">	
-<label for="description">description</label>
-<input type="text" name="description" id="description">	
-<input type="submit" name="créer">
-</form>
+    <h2>AJOUT DE VIDEO</h2>
+    <form action="" method="POST">
+        <label for="user">title</label>
+        <input type="text" name="title" id="title">
+        <label for="url">url</label>
+        <input type="text" name="url" id="url">	
+        <label for="description">description</label>
+        <input type="text" name="description" id="description">	
+        <input type="submit" name="créer">
+    </form>
 
-<div>
-<b><?php $formInformations ?></b>
-</div>
+    <div>
+        <b><?php $formInformations ?></b>
+    </div>
 
 </body>
 </html>

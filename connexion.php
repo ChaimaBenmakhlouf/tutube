@@ -38,24 +38,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport">
-
-<title>Document</title>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <title>Document</title>
 
 </head>
 <body>	
-<h2>CONNEXION : </h2>
-<form action='#' method='POST'>
-<label>email</label>
-<input type='text' name='email' >
-<label>password</label>
-<input type='password' name='password' >
+    <h2>CONNEXION : </h2>
+    <form action='#' method='POST'>
+        <label>email</label>
+        <input type='text' name='email' >
+        <label>password</label>
+        <input type='password' name='password' >
 
-<input type='submit' name='submit'>
+        <input type='submit' name='submit'>
 
-<br><br>
-</form>	
+        <br><br>
+    </form>	
 
 </body>
 </html>

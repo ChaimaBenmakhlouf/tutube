@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>document</title>
+    <meta charset="utf-8">
+    <title>document</title>
 </head>
 <body>
-<h2>INSCRIPTION : </h2>
-<form action='#' method='POST'>
-<label>email</label>
-<input type='text' name='email' >
-<label>password</label>
-<input type='password' name='password' >
-<label>pseudo</label>
-<input type='text' name='pseudo' >
-<input type='submit' name='submit'>
+    <h2>INSCRIPTION : </h2>
+    <form action='#' method='POST'>
+        <label>email</label>
+        <input type='text' name='email' >
+        <label>password</label>
+        <input type='password' name='password' >
+        <label>pseudo</label>
+        <input type='text' name='pseudo' >
+        <input type='submit' name='submit'>
 
-<br><br>
-</form>
+        <br><br>
+    </form>
 
 </body>
 </html>
